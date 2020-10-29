@@ -1,7 +1,7 @@
 # A-B-tests
 
 A/B tests are performed to test changes on a web page by running experiment where a control group 
-see the old version while the experiment group sees the new version. Based on a metric, 
+sees the old version while the experiment group sees the new version. Based on a metric, 
 we see how people react to the change. This metric helps measure th level of engagement from users in each group.
 
 ## Project details 
