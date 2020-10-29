@@ -5,7 +5,7 @@ sees the old version while the experiment group sees the new version. Based on a
 we see how people react to the change. This metric helps measure th level of engagement from users in each group.
 
 ## Project details 
-This project aims to understand the results of an A/B test run by an e-commerce website. he company has developed
+This project aims to understand the results of an A/B test run by an e-commerce website. The company has developed
 a new web page in order to try and increase the number of users who "convert," meaning the number of users who 
 decide to pay for the company's product. 
 
