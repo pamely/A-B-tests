@@ -17,4 +17,7 @@ longer to make their decision.
 
 * After running a one-side test, we fail to reject that the old page lead to more conversions.
 * Using a regression approach (a two-side test), we also fail to reject that the old page lead to more conversions.
-Based on this statistical results, I think that the company should stick to the old website. However, it will be a good idea to extend the duration of the test to be sure that the results obtained in the course of these tests are not due to change aversion.
+
+Based on this statistical results, I think that the company should stick to the old website. However, it will be a good
+idea to extend the duration of the test to be sure that the results obtained in the course of these tests are not due to
+change aversion.
